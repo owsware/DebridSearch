@@ -1,7 +1,7 @@
 {
 	"name": "debrid-search",
-	"version": "0.1.11",
-	"description": "Stremio Addon to search downloads and torrents in your Debrid cloud",
+	"version": "0.1.2",
+	"description": "Stremio Addon to search downloads and torrents in your Debrid cloud. Supports Real-Debrid, AllDebrid, Premiumize, Debrid-Link and TorBox. Fixed by owsware with <3",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js",
