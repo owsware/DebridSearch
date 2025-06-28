@@ -24,7 +24,7 @@ builder.defineCatalogHandler((args) => {
 
             // Search catalog request
             if (args.extra.search) {
-                CatalogProvider.searchTorrents(args.config, args.extra.search)
+                CatalogProvider.searchTorrents(args.config, args.extra.search, args.extra.skip)
                     .then(metas => {
                         console.log("Response metas: " + JSON.stringify(metas))
                         resolve({
