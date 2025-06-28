@@ -1,8 +1,7 @@
 ## Debrid Search Stremio Addon
-Stremio Addon to search downloads and torrents in your Debrid cloud
+Stremio Addon to search downloads and torrents in your Debrid cloud. Now working with Premiumize again. Forked from [@asaddon](https://github.com/asaddon) to include other misc fixes (community driven) since I have no access to other Debrid providers for testing.
 
-Install - https://68d69db7dc40-debrid-search.baby-beamup.club/configure
-
+### You will have to self host this addon to use it.
 
 ## FAQs
 Q1. Why DebridSearch is not showing any streaming links on the movie/series page?
